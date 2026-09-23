@@ -40,9 +40,9 @@
 - Dynamic Assessment Flow
 - Versioned Scoring Simulation
 - Audit / JSON Log
-角色、場景與動畫目前主要以 SVG、JavaScript 與 CSS 製作。
-尚未正式串接大型語言模型（LLM）與 AI Agents，因此自然語言理解、角色回應與評分目前仍以本地暫定規則模擬。
-後續將逐步由 keyword matching 轉向 structured evidence extraction。
+- 角色、場景與動畫目前主要以 SVG、JavaScript 與 CSS 製作。
+- 尚未正式串接大型語言模型（LLM）與 AI Agents，因此自然語言理解、角色回應與評分目前仍以本地暫定規則模擬。
+- 後續將逐步由 keyword matching 轉向 structured evidence extraction。
 
 ## AI 預定角色：
 - 理解自由文字回應
