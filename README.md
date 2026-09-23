@@ -1,6 +1,6 @@
 # 互動式 SJT｜Interactive SJT Prototype
-將情境判斷、動態支持、互動敘事與可追蹤評分整合為一個可操作的評量原型。
-👉 Demo位置 https://wlyeh919-bot.github.io/-interactive-sjt/index.html
+- 將情境判斷、動態支持、互動敘事與可追蹤評分整合為一個可操作的評量原型。
+- Demo位置： https://wlyeh919-bot.github.io/-interactive-sjt/index.html
 
 ## 專案概念
 使用者不只是閱讀題目並作答，而是進入一段持續發展的教育情境，與學生、同事及家長互動。
